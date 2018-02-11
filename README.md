@@ -1,0 +1,2 @@
+# Kodiak
+Discord Music Bot
